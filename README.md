@@ -9,11 +9,10 @@
 
 ###  About Me  
 - 🎓 CSE Undergrad  
-- 🔭 Always Looking to Build Things That Can Make an Impact  
-- 💼 SDE Intern at [Swatle.ai](https://swatle.ai)  
+- 🔭 Always Looking to Build Things That Can Make an Impact   
 - 🧠 I love merging technologies and working with them  
-- 🎮 Built a **Campus Navigation AR App** using Unity + ARCore  
-- 🎯 Mission: Build things that feel ALIVE 🌀  
+- 🎮 Built a **Campus Navigation AR App** using Unity + ARCore
+- 🤖 Currently exploring **AI + AR + 3D web** fusion projects
 
 ---
 
@@ -50,7 +49,7 @@
 - ⚡ I once built a **poster popup** feature that launches on site load... because users deserve fireworks 🎇  
 - 🎥 I want to experiment with pixel art  
 - 🛠️ I believe good UI = **vibes + accessibility + dopamine**  
-- 🤖 Currently exploring **AI + AR + 3D web** fusion projects  
+
 
 ---
 
@@ -61,7 +60,7 @@
 ---
 
 ### 🌀 Motto  
-> _“Don’t just code to build — code to **express**, **move**, and **wow**.”_
+> _“Do Things That Make you Feel Alive."_
 
 ---
 
