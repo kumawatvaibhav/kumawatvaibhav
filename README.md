@@ -55,7 +55,7 @@
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-VaibhavKumawat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhavkumawat19/)](https://www.linkedin.com/in/vaibhavkumawat19/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel)](https://vaibhavkumawat.site)
+[![LinkedIn](https://img.shields.io/badge/-VaibhavKumawat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhavkumawat19/)](https://www.linkedin.com/in/vaibhav-kumawatt/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel)](https://vaibhavkumawat.site)
 
 ---
 
