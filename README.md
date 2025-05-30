@@ -39,7 +39,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🧠 **[NIRDESHAK.ai](https://career-ai-zeta.vercel.app/)** | A smart resume builder powered by AI suggestions, dynamic preview, and skill-based templates |
+| 🧠 **[NIRDESHAK.ai](https://career-ai-zeta.vercel.app/)** | A smart resume builder powered by AI suggestions, dynamic preview, and skill-based templates and a Career Guidance Chatbot build on Custom dataset |
 | 🌿 **[Ewaste-Mn](https://e-waste-frontend.vercel.app/)** | Web app to track, dispose and analyze e-waste using location data, maps API & MongoDB |
 | 🪑 **[Ario - Furniture Rental Platform](https://ario-two.vercel.app/)** | Feature-rich platform with admin panel, cart, payments & Spline 3D integration |
 
