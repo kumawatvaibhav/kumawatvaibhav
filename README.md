@@ -13,6 +13,7 @@
 - 🧠 I love merging technologies and working with them  
 - 🎮 Built a **Campus Navigation AR App** using Unity + ARCore
 - 🤖 Currently exploring **AI + AR + 3D web** fusion projects
+- ⭐ Let's collaborate and build something awesome together!
 
 ---
 
@@ -48,9 +49,8 @@
 
 ### 🧠 Fun Facts
 - ⚡ I once built a **poster popup** feature that launches on site load... because users deserve fireworks 🎇  
-- 🎥 I want to experiment with pixel art  
-- 🛠️ I believe good UI = **vibes + accessibility + dopamine**  
-
+- 🎥 I love pixel art and want to experiment with it.
+- ⚽ Huge Football Fan , VISCA BARCA 
 
 ---
 
