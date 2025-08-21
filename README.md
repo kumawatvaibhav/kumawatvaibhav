@@ -47,13 +47,6 @@
 
 ---
 
-### 🧠 Fun Facts
-- ⚡ I once built a **poster popup** feature that launches on site load... because users deserve fireworks 🎇  
-- 🎥 I love pixel art and want to experiment with it.
-- ⚽ Huge Football Fan , VISCA BARCA 
-
----
-
 ### 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-VaibhavKumawat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhavkumawat19/)](https://www.linkedin.com/in/vaibhav-kumawatt/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel)](https://vaibhavkumawat.site)
